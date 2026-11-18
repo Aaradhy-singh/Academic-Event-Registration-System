@@ -1,1 +1,1 @@
-Remove style.css
+Remove Script.js

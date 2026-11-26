@@ -12,9 +12,9 @@ register, attend and give feedback.
 ## Team
 | Name | Registration No. | Contribution |
 |------|------------------|--------------|
-| Aaradhy Singh | 12611560 | (write what you did) |
-| (Ansh Kashyap) | 12610944 | (write what they did) |
-| (Om Baranwal) | 12612192 | (write what they did) |
+| Aaradhy Singh | 12611560 | (javaScript) |
+| (Ansh Kashyap) | 12610944 | (CSS) |
+| (Om Baranwal) | 12612192 | (Html) |
 
 ## Features
 - Organiser: create, edit and delete events with a seat limit
